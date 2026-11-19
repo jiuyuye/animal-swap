@@ -1,0 +1,15 @@
+# ── 编译产物 ─────────────────────────────
+build/
+*.class
+
+# ── Python 辅助脚本缓存 ──────────────────
+__pycache__/
+*.pyc
+
+# ── 系统/编辑器杂项 ──────────────────────
+Thumbs.db
+.DS_Store
+desktop.ini
+*.swp
+.idea/
+.vscode/
